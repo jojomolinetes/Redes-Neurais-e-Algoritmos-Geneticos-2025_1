@@ -41,3 +41,38 @@ Neste repositório estão presentes todas as atividades denominadas "Feras Formi
   **Dificultando um pouco mais:** existem arquiteturas chamadas de autoencoder variacionais. São um pouco mais complicadas que as não-variacionais, porém são capazes de gerar novos dados. Veja se acha interessante abraçar este desafio adicional.
 *4.17 - Regressão Simbólica.* 
   • **Objetivo:** Fazer um algoritmo de regressão simbólica e resolver um problema com ele.
+
+
+![Logos MCTI, CNPEM e ILUM](https://github.com/leticiaalmnunes/PCD---Boletim/assets/172425156/93c3eb13-410c-40c0-a412-7096187678a4)
+
+# 🧠💻 Redes Neurais e Algoritmos Genéticos 🧬
+
+### Terceiro semestre de Bacharelado em Ciência e Tecnologia
+
+---
+
+### 🧠 Redes Neurais • 🧬 Algoritmos Genéticos • 🐍 Python
+
+**Orientação:** Prof. Dr. Daniel Roberto Cassar
+
+![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-blue)
+
+---
+
+## 💪 Feras Formidáveis
+
+Atividades desenvolvidas para a disciplina **T03-ATP-303** (Redes Neurais e Algoritmos Genéticos), durante o terceiro semestre do Bacharelado em Ciência e Tecnologia (BCT) na **Ilum Escola de Ciência (CNPEM)**.
+
+---
+
+## 📄 Pré-requisitos
+
+**Ambiente:** Python 3.8+ (ideal: entre 3.8 e 3.11)
+
+Como pré-requisitos para a utilização dos notebooks presentes neste repositório, é necessário utilizar um editor de linguagem compatível com Python e instalar as seguintes bibliotecas:
+
+```bash
+torch==2.0.1
+deap==1.3.3
+numpy==1.24.4
+scikit-learn==1.3.0
