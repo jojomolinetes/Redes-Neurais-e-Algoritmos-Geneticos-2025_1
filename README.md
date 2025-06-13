@@ -46,9 +46,9 @@ Neste repositório estão presentes todas as atividades denominadas "Feras Formi
   
 *4.7 - Preciso de um espaço (latente) para pensar.* 
 
-  • **Objetivo:** Implementar uma rede neural do tipo autoencoder utilizando PyTorch ou lightning. Treinar esta rede no conjunto de dados que desejar e comente sobre o que é o codificador, o que é o decodificador e o que é o espaço latente. Representações visuais são bem-vindas se possível. 
+  • **Objetivo:** Implementar uma rede neural do tipo autoencoder utilizando PyTorch ou lightning. Treinar esta rede no conjunto de dados que desejar e comentar sobre o que é o codificador, o que é o decodificador e o que é o espaço latente. Representações visuais foram utilizadas no notebook. 
   
-  **Dificultando um pouco mais:** existem arquiteturas chamadas de autoencoder variacionais. São um pouco mais complicadas que as não-variacionais, porém são capazes de gerar novos dados. Veja se acha interessante abraçar este desafio adicional.
+  **Dificultando um pouco mais:** existem arquiteturas chamadas de autoencoder variacionais. São um pouco mais complicadas que as não-variacionais, porém são capazes de gerar novos dados. O desafio desse notebook foi implementar uma VAE.
   
 *4.17 - Regressão Simbólica.* 
 
