@@ -30,4 +30,14 @@ scikit-learn==1.3.0
 
 ## 📚 Organização do Repositório
 Neste repositório estão presentes todas as atividades denominadas "Feras Formidáveis", atividades determinadas pelo orientador da disciplina prof. Dr. Daniel Cassar. Os notebooks aqui contidos são:
-• *4.1 - Quem classifica a classe classificadora?* 
+*4.1 - Quem classifica a classe classificadora?* 
+  • **Objetivo:** Alterar a rede neural feita em Python puro para resolver um problema de classificação. Treinar uma rede neural em um dataset simples de classificação para mostrar que funciona.
+*4.5 - Um momento, por favor!* 
+  • **Objetivo:** Implementar o otimizador de Descida do Gradiente com Momento (Gradient Descent with Momentum) na rede neural feita em Python puro.
+*4.6 - E se meus dados forem imagens?* 
+  • **Objetivo:** Implementar uma rede neural convolucional (CNN) utilizando PyTorch ou lightning. Treinar esta rede neural em um conjunto de dados de imagens. Explique para o leitor como funciona a camada de convolução de uma CNN e o motivo de utilizarmos este tipo de arquitetura quando estudamos imagens.
+*4.7 - Preciso de um espaço (latente) para pensar.* 
+  • **Objetivo:** Implementar uma rede neural do tipo autoencoder utilizando PyTorch ou lightning. Treinar esta rede no conjunto de dados que desejar e comente sobre o que é o codificador, o que é o decodificador e o que é o espaço latente. Representações visuais são bem-vindas se possível. 
+  **Dificultando um pouco mais:** existem arquiteturas chamadas de autoencoder variacionais. São um pouco mais complicadas que as não-variacionais, porém são capazes de gerar novos dados. Veja se acha interessante abraçar este desafio adicional.
+*4.17 - Regressão Simbólica.* 
+  • **Objetivo:** Fazer um algoritmo de regressão simbólica e resolver um problema com ele.
